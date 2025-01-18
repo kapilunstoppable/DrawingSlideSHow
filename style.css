@@ -21,7 +21,7 @@ body{
 }
 img{
   height: 380px;
-  width: 330px;
+  width: 300px;
   object-fit: contain;
   border-radius: 5px;
 }
@@ -30,16 +30,16 @@ img{
 }
 #arrow-left{
   height: 20px;
-  font-size: 50px;
+  font-size: 40px;
   margin-top: 155px;
-  margin-left: -10px;
+  margin-left: -5px;
   cursor: pointer;
 }
 #arrow-right{
   height: 20px;
-  font-size: 50px;
+  font-size: 40px;
   margin-top: 155px;
-  margin-right: -10px;
+  margin-right: -5px;
   cursor: pointer;
 }
 
