@@ -43,18 +43,3 @@ img{
   cursor: pointer;
 }
 
-.yt{
-  position: absolute;
-  margin-top: 450px;
-  background-color: red;
-  width: 290px;
-  text-align: center;
-  padding: 5px;
-  border-radius: 5px;
-}
-.yt a{
-  font-size: 20px;
-  color: white;
-  text-decoration: none;
-  font-weight: bold;
-}
